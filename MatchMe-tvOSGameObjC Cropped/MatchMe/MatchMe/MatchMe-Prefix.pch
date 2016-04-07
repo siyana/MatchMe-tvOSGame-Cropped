@@ -1,0 +1,17 @@
+//
+//  MatchMe-Prefix.pch
+//  MatchMe
+//
+//  Created by Siyana Slavova on 2/22/16.
+//  Copyright © 2016 mycompany.MatchMe. All rights reserved.
+//
+
+
+#import "Configurations.h"
+
+#ifndef MatchMe_Prefix_pch
+#define MatchMe_Prefix_pch
+#endif
+
+
+
