@@ -1,0 +1,23 @@
+{
+  "layers" : [
+    {
+      "filename" : "Level3-text.imagestacklayer"
+    },
+    {
+      "filename" : "Level3-pics.imagestacklayer"
+    },
+    {
+      "filename" : "levels-bg.imagestacklayer"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "canvasSize" : {
+      "width" : 908,
+      "height" : 512
+    }
+  }
+}
