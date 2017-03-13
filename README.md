@@ -15,9 +15,9 @@ Photoshop - Parallax Explorer (Requires OS X 10.9+, Photoshop CC 2014, 8 GB RAM)
 * If you prefer to write on <b>Swift</b> - see the folder "MatchMe-tvOSGameSwift Cropped".
 
 Follow these links to find full version:
-* https://github.com/gabrielaZagarova/MatchMe-tvOSGame-ObjectiveC
-* https://github.com/gabrielaZagarova/MatchMe-tvOSGame-Swift
+* https://github.com/MentorMate/MatchMe-tvOSGame-ObjectiveC
+* https://github.com/MentorMate/MatchMe-tvOSGame-Swift
 
 To check how iOS app is transitioned to tvOS app an to see the workshop agenda and more information about the speakers you can look at tvOSWorkshop project here:
-* https://github.com/gabrielaZagarova/tvOSWorkshop
+* https://github.com/MentorMate/tvOSWorkshop
 
